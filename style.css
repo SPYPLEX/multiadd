@@ -1,0 +1,59 @@
+{
+      margin: 0px;
+      padding: 0px;
+    }
+    body{
+      background-image: url("merc.png");
+    }
+    .logo{
+      position: absolute;
+      height:150px;
+    }
+    .img{
+      position: absolute;
+      height:auto;
+    }
+
+    ul{
+      list-style-type: none;
+      margin-top: 25px;
+    }
+
+    ul li{
+      display:inline-block;
+    }
+
+    ul li a{
+      text-decoration: none;
+      padding:5px 20px;
+      float:right;
+      border:1px solid ;
+      background-color:silver;
+      color:whitesmoke;
+    }
+
+    ul li a:hover{
+     color:grey;
+
+    }
+
+    P{
+      font-family: monospace;
+      text-align: center;
+      font-weight: bold;
+      font-size: 18px;
+      color:whitesmoke;
+    }
+
+    .logo img{
+      float:left;
+      width: 150px;
+      height: auto;
+    }
+
+    .footer{
+      text-align: center;
+      padding: 15px;
+      font-size: 12px;
+      color:;
+    }
